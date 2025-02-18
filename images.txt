@@ -1,4 +1,4 @@
-nginx
+#nginx
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
@@ -7,7 +7,6 @@ nginx
 infiniflow/ragflow:v0.16.0
 infiniflow/infinity:v0.6.0-dev3
 
- 
 elasticsearch:8.11.3
 mysql:8.0.39
 postgres:13
