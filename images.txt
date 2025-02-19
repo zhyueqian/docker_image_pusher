@@ -6,6 +6,8 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 infiniflow/ragflow:v0.16.0
 infiniflow/infinity:v0.6.0-dev3
+infiniflow/ragflow-base:v2.0
+docker.elastic.co/elasticsearch/elasticsearch:8.11.3
 
 elasticsearch:8.11.3
 mysql:8.0.39
@@ -13,3 +15,4 @@ postgres:13
 redis:6
 valkey/valkey:8
 minio/minio
+
